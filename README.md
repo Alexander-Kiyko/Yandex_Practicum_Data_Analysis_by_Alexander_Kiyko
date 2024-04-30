@@ -1,5 +1,6 @@
 # Yandex_Practicum_Data_Analysis_by_Alexander_Kiyko
 Мои проекты, выполненные во время прохождения курса "Аналитик данных" в Яндекс-Практикуме.
+
 Навыки и инструменты
 SQL, Python, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn (StandardScaler, KMeans) SciPy (dendrogram, ttest), Tableau
 
