@@ -1,2 +1,6 @@
 # Yandex_Practicum_Data_Analysis_by_Alexander_Kiyko
-My projects made during Data Analysis course in Yandex Practicum
+Мои проекты, выполненные во время прохождения курса "Аналитик данных" в Яндекс-Практикуме.
+Навыки и инструменты
+SQL, Python, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn (StandardScaler, KMeans) SciPy (dendrogram, ttest), Tableau
+
+Декомпозиция, обработка данных, исследовательский анализ данных, дубликаты, выбросы, категоризация, визуализация данных, матрица корреляций, матрица расстояний, стандартизация, дендрограмма, кластеризация, проверка гипотез с использованием t-критерия Стьюдента, построение дашборда.
